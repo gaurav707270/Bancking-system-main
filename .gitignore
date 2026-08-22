@@ -1,0 +1,16 @@
+node_modules/
+.env
+uploads/
+dist/
+*.log
+.DS_Store
+docs/API.md
+docs/EXPLANATION.md
+docs/DEPLOYMENT.md
+docs/PRESENTATION-SCRIPT.md
+docs/LOGIN-CREDENTIALS.md
+backend/.env
+backend/.env
+backend/.env
+backend/.env
+docs/QA-GUIDE.md
