@@ -1,6 +1,6 @@
 // authMiddleware.js — TOKEN CHECK KARNE WALA SECURITY GUARD
 Kaam: Jab bhi koi protected request aati hai, pehle yeh check karta hai
-//       ki "tumne login kiya hai ya nahi". Login kiya hai toh token valid
+      ki "tumne login kiya hai ya nahi". Login kiya hai toh token valid
 //       hoga, nahi toh 401 error dega.
 //
 // YAAD RAKHO: Frontend me login karne ke baad user ko ek 'token' milta hai.
