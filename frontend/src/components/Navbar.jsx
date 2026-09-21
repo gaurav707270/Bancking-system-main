@@ -1,5 +1,5 @@
 // import { FiMenu, FiBell, FiMoon, FiSun } from 'react-icons/fi';
-import { useEffect, useState } from 'react';
+// import { useEffect, useState } from 'react';
 import { useAuth } from '../context/AuthContext';
 import { roleLabel } from '../utils/format';
 
