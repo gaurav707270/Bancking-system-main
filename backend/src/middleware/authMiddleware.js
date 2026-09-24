@@ -6,7 +6,7 @@
 // YAAD RAKHO: Frontend me login karne ke baad user ko ek 'token' milta hai.
 // Us token ko user har request ke saath 'Authorization' header me bhejta hai.
 // Yeh file us token ko verify karti hai.
-
+// 
 // jwt = login token banane aur check karne ki library.
 // Token = ek secret code jisme user ki id hoti hai, aur jise humara
 // secret key se sign kiya hota hai (toh koi fake token bana na sake).
