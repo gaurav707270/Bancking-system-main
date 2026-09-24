@@ -4,7 +4,7 @@
 //       hoga, nahi toh 401 error dega.
 
 // YAAD RAKHO: Frontend me login karne ke baad user ko ek 'token' milta hai.
-Us token ko user har request ke saath 'Authorization' header me bhejta hai.
+// Us token ko user har request ke saath 'Authorization' header me bhejta hai.
 // Yeh file us token ko verify karti hai.
 // 
 // jwt = login token banane aur check karne ki library.
